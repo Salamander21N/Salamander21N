@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **antoniomir534@gmail.com**
 
-- 🧠 Motivation **Sic Parvis Magna**
+- 🧠 Philosophy **Sic Parvis Magna**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
