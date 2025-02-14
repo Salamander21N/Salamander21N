@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone, I´m AntonioMir_S</h1>
 <h3 align="center">Systems engineering student, I like doing sports and spend time with my family and friends.</h3>
 
-- 🌱 I’m currently learning **Courses of python and C++**
+- 🌱 I’m currently learning **Python and C++**
 
 - 📫 How to reach me **antoniomir534@gmail.com**
 
